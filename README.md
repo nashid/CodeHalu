@@ -1,2 +1,2 @@
 # CodeHalu
-The code will release soon.
+The code and dataset are coming soon.
